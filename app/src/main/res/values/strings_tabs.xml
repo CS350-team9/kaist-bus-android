@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- KAIST -->
+    <string name="tab_kaist_taxi">TAXI</string>
+    <string name="tab_kaist_taxi_explain">- 택시승강장에 웹카메라를 이용해 택시가 있는지 없는지 확인하는 기능을 준비 중에 있습니다.</string>
+    <string name="tab_kaist_tashu">타슈</string>
+    <string name="tab_kaist_olev">OLEV</string>
+    <string name="tab_kaist_olev_explain">- 개발팀이 실측한 시간을 기준으로 개발되었습니다.\n- 실제 운영시간을 이보다 약간 늦거나 빠를 수 있음을 양지하여 주시길 바랍니다.</string>
+    <string name="tab_kaist_wolpyeong">본원-월평-둔산</string>
+    <string name="tab_kaist_wolpyeong_explain">- 이용자: 구성원 및 학교 방문객\n- 차량: 25인승 미니버스\n- 운행시간은 도로 사정에 따라 달라질 수 있습니다\n- 운행문의: 배차실(042-350-2316), 총무팀(042-350-2314)</string>
+    <string name="tab_kaist_sunhwan">본원-문지-화암</string>
+    <string name="tab_kaist_sunhwan_explain">- 차량: 대형버스\n- 운행업체: (주)엑스포관광\n- 비상시 연락처: 총무팀(주간, 042-350-2314), 코리아나고속관광(주/야간, 010-4335-3311)</string>
+
+    <!-- kongju -->
+    <string name="tab_kongju_ys">유성출발</string>
+    <string name="tab_kongju_ys_explain">등교버스입니다: 유성->공주대학교(신관캠퍼스)</string>
+
+
+    <!--
+    <string name="tab_kaist_daejeon_bus">대전버스</string>
+    <string name="tab_kaist_daejeon_subway">지하철</string>
+    <string name="tab_kaist_seoul">서울버스</string>
+    <string name="tab_kaist_munhwa">문화버스</string>
+    -->
+
+    <!-- KOREA -->
+    <string name="tab_korea_taxi">TAXI</string>
+    <string name="tab_korea_taxi_explain">급할 땐, 택시죠!</string>
+
+    <!-- YONSEI -->
+    <string name="tab_yonsei_taxi">TAXI</string>
+    <string name="tab_yonsei_taxi_explain">급할 땐, 택시죠!</string>
+
+    <!-- CNU -->
+    <string name="tab_cnu_a">A노선</string>
+    <string name="tab_cnu_a_explain">- 제가 충남대 학생이 아닌지라, 방학 때 운영하는지는 모르겠습니다 ㅠㅠㅠ 죄송합니다.\n- 출처: 국립 충남대학교 총학생회 페이스북 페이지(https://www.facebook.com/cnusc)</string>
+    <string name="tab_cnu_b">B노선</string>
+    <string name="tab_cnu_b_explain">- 제가 충남대 학생이 아닌지라, 방학 때 운영하는지는 모르겠습니다 ㅠㅠㅠ 죄송합니다.\n- 출처: 국립 충남대학교 총학생회 페이스북 페이지(https://www.facebook.com/cnusc)</string>
+    <string name="tab_cnu_c">C노선</string>
+    <string name="tab_cnu_c_explain">- 제가 충남대 학생이 아닌지라, 방학 때 운영하는지는 모르겠습니다 ㅠㅠㅠ 죄송합니다.\n- 출처: 국립 충남대학교 총학생회 페이스북 페이지(https://www.facebook.com/cnusc)</string>
+    <string name="tab_cnu_yuseong">등하교 유성노선</string>
+    <string name="tab_cnu_yuseong_explain">- 제가 충남대 학생이 아닌지라, 방학 때 운영하는지는 모르겠습니다 ㅠㅠㅠ 죄송합니다.\n- 출처: 국립 충남대학교 총학생회 페이스북 페이지(https://www.facebook.com/cnusc)</string>
+    <string name="tab_cnu_a_night">야간A노선</string>
+    <string name="tab_cnu_a_night_explain">오류가 있으시면, 언제든지 연락주세요!</string>
+    <string name="tab_cnu_b_night">야간B노선</string>
+    <string name="tab_cnu_b_night_explain">오류가 있으시면, 언제든지 연락주세요! </string>
+    <string name="tab_cnu_taxi">TAXI</string>
+    <string name="tab_cnu_taxi_explain">급할 땐, 택시죠!</string>
+
+    <!-- HANNAM -->
+    <string name="tab_hannam_taxi">TAXI</string>
+    <string name="tab_hannam_taxi_explain">급할 땐, 택시죠!</string>
+
+
+    <!-- HANBAT -->
+
+
+    <!-- DJU -->
+
+
+    <!-- PCU -->
+
+
+    <!-- MOKWON -->
+
+
+    <!-- WSU -->
+
+
+    <!-- DST -->
+
+</resources>
